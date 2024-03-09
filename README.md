@@ -2,7 +2,7 @@
 
 #### Web Developer Back-end Nestjs - NojeJS (Typescript) (Part-time on-premise) ✨
 
-#### 🔭 In my free time I develop Minecraft mods in Java
+#### 🔭 In my free time I develop Minecraft mod in Java
 
 🌱 I’m currently learning: GCP Pub/sub in Nodejs and Java
 
